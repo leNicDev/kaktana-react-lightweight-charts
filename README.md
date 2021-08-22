@@ -18,19 +18,19 @@
 ##### Installing via npm
 
 ```bash
-npm install --save kaktana-react-lightweight-charts
+npm install --save @lenicdev/react-lightweight-charts
 ```
 
 ##### Installing via yarn
 
 ```bash
-yarn add kaktana-react-lightweight-charts
+yarn add @lenicdev/react-lightweight-charts
 ```
 
 ## Usage
 
 ```js
-import Chart from 'kaktana-react-lightweight-charts'
+import Chart from '@lenicdev/react-lightweight-charts'
 ```
 
 To create a basic candlestick chart, write as follows:
